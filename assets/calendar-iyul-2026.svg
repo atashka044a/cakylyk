@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 425 425" role="img" aria-label="Iýul 2026 takvimi">
+<text x="212" y="58" text-anchor="middle" font-family="Georgia,serif" font-size="38" font-style="italic" fill="#000">Iýul 2026</text>
+<text x="76" y="95" text-anchor="middle" font-family="Georgia,serif" font-size="14" letter-spacing="2" fill="#000">ПН</text>
+<text x="124" y="95" text-anchor="middle" font-family="Georgia,serif" font-size="14" letter-spacing="2" fill="#000">ВТ</text>
+<text x="172" y="95" text-anchor="middle" font-family="Georgia,serif" font-size="14" letter-spacing="2" fill="#000">СР</text>
+<text x="220" y="95" text-anchor="middle" font-family="Georgia,serif" font-size="14" letter-spacing="2" fill="#000">ЧТ</text>
+<text x="268" y="95" text-anchor="middle" font-family="Georgia,serif" font-size="14" letter-spacing="2" fill="#000">ПТ</text>
+<text x="316" y="95" text-anchor="middle" font-family="Georgia,serif" font-size="14" letter-spacing="2" fill="#000">СБ</text>
+<text x="364" y="95" text-anchor="middle" font-family="Georgia,serif" font-size="14" letter-spacing="2" fill="#000">ВС</text>
+<text x="172" y="170" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#000">1</text>
+<text x="220" y="170" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#000">2</text>
+<text x="268" y="170" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#000">3</text>
+<text x="316" y="170" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#000">4</text>
+<g transform="translate(338,136)">
+<circle cx="26" cy="26" r="23" fill="none" stroke="#000" stroke-width="1.1"/>
+<circle cx="26" cy="26" r="19" fill="none" stroke="#000" stroke-width="0.7"/>
+<text x="26" y="32" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#000">5</text>
+<path d="M26 8 L30 3 L34 8 L32 8 L32 12 L28 12 L28 8 Z" fill="none" stroke="#000" stroke-width="0.9"/>
+<ellipse cx="26" cy="17" rx="6" ry="3.5" fill="none" stroke="#000" stroke-width="0.9"/>
+</g>
+<text x="76" y="218" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#000">6</text>
+<text x="124" y="218" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#000">7</text>
+<text x="172" y="218" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#000">8</text>
+<text x="220" y="218" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#000">9</text>
+<text x="268" y="218" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#000">10</text>
+<text x="316" y="218" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#000">11</text>
+<text x="364" y="218" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#000">12</text>
+<text x="76" y="266" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#000">13</text>
+<text x="124" y="266" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#000">14</text>
+<text x="172" y="266" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#000">15</text>
+<text x="220" y="266" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#000">16</text>
+<text x="268" y="266" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#000">17</text>
+<text x="316" y="266" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#000">18</text>
+<text x="364" y="266" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#000">19</text>
+<text x="76" y="314" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#000">20</text>
+<text x="124" y="314" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#000">21</text>
+<text x="172" y="314" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#000">22</text>
+<text x="220" y="314" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#000">23</text>
+<text x="268" y="314" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#000">24</text>
+<text x="316" y="314" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#000">25</text>
+<text x="364" y="314" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#000">26</text>
+<text x="76" y="362" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#000">27</text>
+<text x="124" y="362" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#000">28</text>
+<text x="172" y="362" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#000">29</text>
+<text x="220" y="362" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#000">30</text>
+<text x="268" y="362" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#000">31</text>
+</svg>
